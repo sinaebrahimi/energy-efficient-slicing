@@ -15,7 +15,7 @@ The two optimization problems include an admission control before solving the op
 Moreover, all simulation steps (including initialization, admission control mechanisms, and solving ILP problems with MOSEK toolbox) have been implemented in MATLAB software which is widely used to solve resource allocation problems.
 
 Network architecture of the CSP in our system model:
-![System Model (Architecture)](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/1-Network%20architecture%20of%20the%20CSP%20in%20our%20system%20model.png?raw=true "System Model (Architecture)")
+![System Model (Architecture)](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/1-Network%20architecture%20of%20the%20CSP%20in%20our%20system%20model-transparent.png?raw=true "System Model (Architecture)")
 
 Simplified flowchart of JRA (Joint Resource Allocation method):
 ![JRA Flowchart](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/2-Simplified%20flowchart%20of%20JRA%20(Joint%20Resource%20Allocation).png?raw=true)
