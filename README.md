@@ -13,3 +13,5 @@ The code includes two joint and disjoint methods which are compared in the paper
 
 The two optimization problems include an admission control before solving the optimization problem. We used the MOSEK solver and CVX package to solve problems (8), (10), (11), (12), (13), and (14).
 Moreover, all simulation steps (including initialization, admission control mechanisms, and solving ILP problems with MOSEK toolbox) have been implemented in MATLAB software which is widely used to solve resource allocation problems.
+
+![System Model (Architecture)](https://github.com/[username]/[reponame]/blob/[branch]/figures/1-Network%20architecture%20of%20the%20CSP%20in%20our%20system%20model.png?raw=true)
