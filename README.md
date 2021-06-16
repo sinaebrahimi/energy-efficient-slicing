@@ -18,12 +18,12 @@ Network architecture of the CSP in our system model:
 ![System Model (Architecture)](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/1-Network%20architecture%20of%20the%20CSP%20in%20our%20system%20model-transparent.png?raw=true "System Model (Architecture)")
 
 Simplified flowchart of JRA (Joint Resource Allocation method):
-![JRA Flowchart](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/2-Simplified%20flowchart%20of%20JRA%20(Joint%20Resource%20Allocation).png?raw=true)
+![JRA Flowchart](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/2-Simplified%20flowchart%20of%20JRA%20(Joint%20Resource%20Allocation)-transparent.png?raw=true)
 
 Simplified flowchart of DRA (Disjoint Resource Allocation method):
-![DRA Flowchart](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/(Not)-Simplified%20flowchart%20of%20DRA%20(Disjoint%20Resource%20Allocation).png?raw=true)
+![DRA Flowchart](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/(Not)-Simplified%20flowchart%20of%20DRA%20(Disjoint%20Resource%20Allocation)-transparent.png?raw=true)
 
 Comparing the total cost between DRA and JRA methods:
-![Total Cost Comparison](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/3a-Overall%20Cost%20(C_total).png?raw=true)
+![Total Cost Comparison](https://github.com/sinaebrahimi/energy-efficient-slicing/blob/master/figures/3a-Overall%20Cost%20(C_total)-transparent.png?raw=true)
 
 To get more useful figures including flowcharts and graphs refer to the 'figures' folder. Some of them are not included in the paper.
