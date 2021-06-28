@@ -1,5 +1,5 @@
 # energy-efficient-slicing
-MATLAB code for the simulation of my paper entitled "Joint Resource and Admission Management for Slice-enabled Networks"
+MATLAB code for the simulation of my paper entitled "**Joint Resource and Admission Management for Slice-enabled Networks**"
 
 S. Ebrahimi, A. Zakeri, B. Akbari, N. Mokari, "Joint Resource and Admission Management for Slice-enabled Networks",  IEEE/IFIP Network Operations and Management Symposium (NOMS 2020), Budapest, Hungary, 2020.
 
